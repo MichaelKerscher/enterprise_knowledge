@@ -1,0 +1,19 @@
+checkliste_id: CHL_2025_001
+titel: Routinewartung Pumpstation PS-100
+bereich: Netzbetrieb / Wasserförderung
+datum: 2025-10-01
+durchgeführt_von: [Techniker A, Techniker B]
+schritte:
+  - "Sichtprüfung aller Rohrverbindungen auf Undichtigkeiten"
+  - "Ölstand des Pumpenmotors prüfen"
+  - "Drucksensor kalibrieren"
+  - "Sicherheitsventil testen"
+  - "Datenlogger überprüfen und Logdateien sichern"
+  - "Betriebsparameter an Leitwarte übermitteln"
+benötigte_werkzeuge:
+  - Schraubenschlüssel-Satz
+  - Manometer
+  - Laptop mit Diagnosesoftware
+  - Schutzbrille, Gehörschutz
+zeitbedarf_minuten: 90
+bemerkung: "Wartung abgeschlossen, keine Auffälligkeiten festgestellt."

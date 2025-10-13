@@ -1,0 +1,6 @@
+vorfall_id,datum,standort,geraet,fehlercode,beschreibung,maßnahme,status
+1001,2025-01-12,Rosenheim-West,Wasserpumpe PX-450,E04,Keine Wasserförderung,Leitung entlüftet,Behoben
+1002,2025-02-18,Rosenheim-Ost,SmartMeter AQ-500,E12,Kommunikationsfehler,Modul neu gestartet,Behoben
+1003,2025-03-22,München-Süd,Heizkessel RIELLO RDB,E07,Überhitzung,Filter gereinigt,Behoben
+1004,2025-04-09,Rosenheim-Ost,Sensor Einheit S-330,E09,Signalabbruch,Kabel ersetzt,Behoben
+1005,2025-05-14,Chiemsee-Nord,Pumpstation PS-100,E04,Unregelmäßige Förderung,Wartung beauftragt,Offen

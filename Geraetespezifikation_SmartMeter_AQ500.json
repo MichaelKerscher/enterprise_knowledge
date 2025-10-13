@@ -1,0 +1,12 @@
+{
+  "geraet": "SmartMeter AQ-500",
+  "hersteller": "Energex GmbH",
+  "typ": "Zähler für Wasser- und Energieverbrauch",
+  "seriennummer": "AQ500-24-0911",
+  "firmware": "v3.2.1",
+  "protokoll": "MQTT / Modbus RTU",
+  "nennspannung": "230V AC",
+  "messbereich": "0–100 m³/h",
+  "zulassung": "EN 1434-1 / MID",
+  "wartungsintervall_monate": 12
+}
