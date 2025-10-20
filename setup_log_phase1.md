@@ -1,3 +1,11 @@
+## Phase 1 - Kick-Off and Setup
+**Project:**  `gemini-support-app`  
+**Region:** `europe-west3` (Frankfurt)  
+**Date:** October 2025  
+**Objective:** Final project plan & cloud architecture.  
+
+---
+
 ### Step 1 - Cloud Project & Permissions
 - Verified active project: `gemini-support-app`
 - Enabled required APIs:
