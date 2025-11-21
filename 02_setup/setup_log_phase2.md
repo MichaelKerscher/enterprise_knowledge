@@ -54,7 +54,7 @@ print(rag_corpus)
 ```
 
 **Cloud Shell:**  
-![Create RAG Corpus](./P2_S2_Creating_RAG_Corpus.png)
+![Create RAG Corpus](./screenshots/P2_S2_Creating_RAG_Corpus.png)
 
 **Result**  
 - RAG corpus created successfully: `projects/163641735411/locations/europe-west3/ragCorpora/6917529027641081856`
@@ -89,7 +89,7 @@ print(f"Imported {response.imported_rag_files_count} files.")
 ```
 
 **Cloud Shell:**  
-![Import Documents from Cloud Storage](./P2_S3_Import_Documents_Cloud_Storage.png)
+![Import Documents from Cloud Storage](./screenshots/P2_S3_Import_Documents_Cloud_Storage.png)
 
 **Result**  
 - Imported: 3 files
@@ -121,10 +121,10 @@ for i, ctx in enumerate(response.contexts.contexts):
 ```
 
 **Cloud Shell:**  
-![Test Retrieval from RAG Corpus](./P2_S4_Test_Retrieval_RAG_Corpus_I.png)
-![Test Retrieval from RAG Corpus](./P2_S4_Test_Retrieval_RAG_Corpus_II.png)
-![Test Retrieval from RAG Corpus](./P2_S4_Test_Retrieval_RAG_Corpus_III.png)
-![Test Retrieval from RAG Corpus](./P2_S4_Test_Retrieval_RAG_Corpus_IV.png)
+![Test Retrieval from RAG Corpus](./screenshots/P2_S4_Test_Retrieval_RAG_Corpus_I.png)
+![Test Retrieval from RAG Corpus](./screenshots/P2_S4_Test_Retrieval_RAG_Corpus_II.png)
+![Test Retrieval from RAG Corpus](./screenshots/P2_S4_Test_Retrieval_RAG_Corpus_III.png)
+![Test Retrieval from RAG Corpus](./screenshots/P2_S4_Test_Retrieval_RAG_Corpus_IV.png)
 
 **Observed Output**  
 - Context 1: SOP_Gasleck_Notfallprozedur_v1.txt
@@ -166,8 +166,8 @@ print(response.text)
 ```
 
 **Cloud Shell:**  
-![Context-Grounded Generation with Gemini 2.5 Flash](./P2_S5_Context_Generation_Gemini_2_5_I.png)
-![Context-Grounded Generation with Gemini 2.5 Flash](./P2_S5_Context_Generation_Gemini_2_5_II.png)
+![Context-Grounded Generation with Gemini 2.5 Flash](./screenshots/P2_S5_Context_Generation_Gemini_2_5_I.png)
+![Context-Grounded Generation with Gemini 2.5 Flash](./screenshots/P2_S5_Context_Generation_Gemini_2_5_II.png)
 
 **Generated Answer (excerpt)**
 1. "Arbeiten sofort einstellen und alle Personen aus dem Gefahrenbereich entfernen"
