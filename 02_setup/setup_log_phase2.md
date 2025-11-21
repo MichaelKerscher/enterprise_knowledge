@@ -80,7 +80,7 @@ response = rag.import_files(
     corpus_name="projects/gemini-support-app/locations/europe-west-3/ragCorpora/6917529027641081856",
     paths=["gs://gemini-support-knowledge/documents/"],
     transformation_config=rag.TransformationConfig(
-        rag.ChunkingConfig(chunk_size=512, chunk_overlap=1000)
+        rag.ChunkingConfig(chunk_size=512, chunk_overlap=100)
     ),
     max_embedding_requests_per_min=9000,
 )
